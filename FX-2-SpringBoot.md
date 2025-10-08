@@ -1,4 +1,6 @@
-# 问题记录
+# SpringBoot
+
+## 问题记录
 
 案例中的跨域问题？
 
@@ -34,7 +36,7 @@ SpringBoot中Controller中使用POJO接收请求时，POJO属性名与请求参�
 
 <font color='blue'>@CookieValue</font>
 
-# 学习目标
+## 学习目标
 
 都是重点
 
@@ -42,7 +44,7 @@ SpringBoot中Controller中使用POJO接收请求时，POJO属性名与请求参�
 
 测试不同接口会产生哪种错误，用来积累经验
 
-# 前言
+## 前言
 
 在SpringBoot快速入门项目中，浏览器发送/hello请求后，给浏览器返回字符串”Hello World“。![SpringBoot快速入门案例图解](assets/FX-2-SpringBoot.assets/SpringBoot快速入门案例图解.png)
 
@@ -62,7 +64,7 @@ SpringBoot中Controller中使用POJO接收请求时，POJO属性名与请求参�
 
 <font color='blue'>这是个什么代码，Tomcat是如何实现的？什么语言编写的</font>
 
-# .SpringBoot入门
+# SpringBoot入门
 
 SpringBoot是一个能够快速帮助我们构筑Java项目的框架！
 
