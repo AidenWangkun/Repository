@@ -143,9 +143,7 @@ hashmap的相关的
 
 
 
-![image-20230806162027475](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230806162027475.png)
-
-![image-20230806162223741](assets/D4-MySQL.assets/image-20230806162223741.png)
+![image-20230806162223741](assets/DB-4-MySQL.assets/image-20251008164336544.png)
 
 大几万就开始创建索引·
 
