@@ -131,9 +131,7 @@ hashmap的相关的
 
 
 
-
-
-![image-20230806120045864](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230806120045864.png)
+![image-20251008161716573](assets/DB-4-MySQL.assets/image-20251008161716573.png)
 
 
 
@@ -451,27 +449,23 @@ readview的版本访问规则
 
 ![image-20230809180507721](assets/D4-MySQL.assets/image-20230809180507721.png)
 
-![image-20230809180806887](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230809180806887.png)
+![image-20251008161754835](assets/DB-4-MySQL.assets/image-20251008161754835.png)
 
 ![image-20230809180847546](assets/D4-MySQL.assets/image-20230809180847546.png)
 
-![image-20230809180905154](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230809180905154.png)
-
-
+![image-20251008161811256](assets/DB-4-MySQL.assets/image-20251008161811256.png)
 
 ![image-20230809181026432](assets/D4-MySQL.assets/image-20230809181026432.png)
 
 
 
-![image-20230809181122816](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230809181122816.png)
+![image-20251008161844359](assets/DB-4-MySQL.assets/image-20251008161844359.png)
 
 
 
- ![image-20230809181612493](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230809181612493.png)
+![image-20251008161901394](assets/DB-4-MySQL.assets/image-20251008161901394.png)
 
-
-
-![image-20230809181835587](../就业学习资料/面试笔记/assets/M2-数据库.assets/image-20230809181835587.png)
+![image-20251008161928733](assets/DB-4-MySQL.assets/image-20251008161928733.png)
 
 
 

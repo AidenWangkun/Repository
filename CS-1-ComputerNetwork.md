@@ -98,11 +98,13 @@ java提供了一个java.net.Socket类来实现TCP通信
 
 除非【另一方关闭了Socket】
 
-Socket![Day12-Socket管道示意图](../StudyNotes/assets/Day13网络通信.assets/Day12-Socket管道示意图.png)类
+![Day12-Socket管道示意图](assets/CS-1-ComputerNetwork.assets/Day12-Socket管道示意图-17599113267351.png)
+
+Socket类
 
 构造方法
 
-![Day12-修改运行配置1](../StudyNotes/assets/Day13网络通信-单元测试.assets/Day12-修改运行配置1.png)
+![Day12-修改运行配置1](assets/CS-1-ComputerNetwork.assets/Day12-修改运行配置1.png)
 
 public Socket(String port,int port)指定服务器的ip、端口号请求与服务端建立连接，连接通过后，就获得了可客户端Socket
 
