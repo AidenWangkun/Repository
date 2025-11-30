@@ -1209,8 +1209,8 @@ properties优先级最高
 #除了SpringBoot或者引入的第三方资源预先定义的配置项之外，也可以自己声明当前项目中使用的一些KEY和VALUE
 aliyun.oss.endpoint=https://oss-cn-beijing.aliyuncs.com
 aliyun.oss.bucketName=spring-boot-web-case
-aliyun.oss.accessKeyId=LTAI5tDAAen1WHLZGpNVknrc
-aliyun.oss.accessKeySecret=o3vXmzvfVjn9SqzpVFnrXERmXyVTqV
+aliyun.oss.accessKeyId=实际的accessKeyId
+aliyun.oss.accessKeySecret=实际的accessKeySecret
 ```
 
 ```java
